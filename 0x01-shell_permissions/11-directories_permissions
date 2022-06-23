@@ -1,2 +1,2 @@
 #!/bin/bash
-find -R a+rX *
+chmod -R a+rX *
